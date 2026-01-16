@@ -133,17 +133,3 @@ while True:
 ## Contributing
 
 Feel free to open issues or submit pull requests. If you want help implementing a Minimax AI or improving input handling, tell me which direction you'd like to go and I can provide a patch.
-
-## License
-
-This project is provided under the MIT License — feel free to reuse and modify the code.
-
----
-
-If you want, I can also:
-
-* Provide a fixed/refactored version of your script with the bug fixes mentioned.
-* Implement a simple Minimax AI and include it in the repository.
-* Add a `requirements.txt` (not needed for this simple script) and a basic test file.
-
-Tell me which one you want next!
